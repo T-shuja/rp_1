@@ -12,4 +12,4 @@ try:
 
 except:
 
-	print("No internet connection")
+	print("Some error occured")
